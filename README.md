@@ -1,7 +1,8 @@
 # Pengi Adventures
 Fun adventure game. <br>
-The game was built as part of an object-oriented programming course. <br>
-The game is written in C++ using the SFML library.
+Travel with Pengi in his adventures world - collect coins, kill enemies and avoid obstacles in your way. <br>
+Strong emphasis on implementing object oriented design principles. <br>
+Written in C++ using the SFML library.
 <br>
 Made by @idanc7596 and me.
 <br>
